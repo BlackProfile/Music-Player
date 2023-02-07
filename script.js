@@ -49,7 +49,7 @@ const music_list = [
         img : 'images/ratherbe.jpg',
         name : 'Rather Be',
         artist : 'Clean Bandit',
-        music : 'music/y2mate.com - Dj Kaleh Welas ku Jawa Pride VIRAL TIKTOK 2023 TERBARU.mp3'
+        music : 'https://i.top4top.io/m_2593n4zwu0.mp3'
     }
 ];
 
